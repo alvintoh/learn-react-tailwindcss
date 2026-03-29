@@ -1,1 +1,1 @@
-# learn-react-tailwindcss
+# Learn React and TailwindCSS
